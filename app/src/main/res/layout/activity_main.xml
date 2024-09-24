@@ -51,6 +51,10 @@
         android:layout_gravity="center"
         android:layout_marginTop="10dp"
         android:textSize="50dp"/>
+    
+    <Button
+        android:layout_width=""
+        android:layout_height=""
 
 
 </LinearLayout>
